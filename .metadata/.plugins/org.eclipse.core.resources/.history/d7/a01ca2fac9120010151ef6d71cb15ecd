@@ -1,0 +1,6 @@
+package DemoOOP;
+
+public abstract Shape {
+	abstract 
+
+}

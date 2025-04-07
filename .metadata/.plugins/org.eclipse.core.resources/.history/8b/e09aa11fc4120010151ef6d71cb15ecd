@@ -1,0 +1,12 @@
+package DemoOOP;
+
+public class DemoEncapsulation {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Students students = new Students();
+		System.out.println(students.getName());
+
+	}
+
+}

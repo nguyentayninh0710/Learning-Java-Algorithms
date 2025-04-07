@@ -1,0 +1,7 @@
+package DemoOOP;
+
+public class Dog extends Animal{
+	public void brak() {
+		System.out.println("BRAK");
+	}
+}
